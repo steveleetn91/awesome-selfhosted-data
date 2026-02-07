@@ -1,0 +1,11 @@
+- name: LiteERP
+  description: Lightweight, extension-first ERP for internal business operations (SMEs-focused).
+  website: https://github.com/liteerp-oss/liteerp
+  source_code: https://github.com/liteerp-oss/liteerp
+  license: MIT
+  platforms:
+    - PHP
+  tags:
+    - ERP
+    - Resource Planning
+  demo: false
